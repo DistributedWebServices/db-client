@@ -1,0 +1,17 @@
+{
+  "name": "infra-db-client",
+  "version": "0.0.1",
+  "description": "Client code for the distributed infra database",
+  "main": "index.js",
+  "author": "Brian Brunner",
+  "license": "MIT",
+  "dependencies": {
+    "bitwise-xor": "^0.0.0",
+    "bloomxx": "^0.1.2",
+    "dnode": "^1.2.2",
+    "leveldown": "^2.1.1",
+    "levelup": "^2.0.1",
+    "mkdirp": "^0.5.1",
+    "web3": "^1.0.0-beta.26"
+  }
+}
